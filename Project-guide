@@ -1,0 +1,47 @@
+######### Project Guide #########
+
+Author:Minhaz Ansari
+Conatct:+91 7999455869
+Date 03-11-2024
+
+About Project
+
+React E commerce Shopping  Application (Cash on Delivery)
+
+TechStack Used:
+    Frontend
+        1.HTML
+        2.Css
+        3.Bootstrap 5   
+        4.React
+   
+    Backend
+        1. JSON-Server (mock-api)
+
+####### How to setup and run the Project ########
+1.Download React Poeject Source code
+https://github.com/Sahil989999/live-ecom-project/archive/refs/heads/main.zip 
+
+2. Download  APi source Code
+https://github.com/Sahil989999/live-ecom-project/archive/refs/heads/main.zip 
+
+Note Setup the project
+1.Download Source code from above url
+2. unzip/extract the files from the folder
+3. install nodejs 18+ version in your system
+4. install react development environment using below code
+npm install -g create-react-app
+5.  install JSON-SERVER to run api
+npm install -g json-sever
+6.start the json-server using below command
+    a. open cmd in api folder (that u have extrcted) and run.
+json-server --watch db.json --port 1234
+
+7. start react development server
+    a. opeb cmd in react project folder that is "project 1" and run this command
+npm start
+
+    Note: You can you s Local host 3000
+
+Thanks  for Time to see my project
+I hope  for positive response from your end
