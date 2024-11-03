@@ -19,7 +19,7 @@ TechStack Used:
         1. JSON-Server (mock-api)
 
 ####### How to setup and run the Project ########
-1.Download React Poeject Source code
+1.Download React Project Source code
 https://github.com/Sahil989999/live-ecom-project/archive/refs/heads/main.zip 
 
 2. Download  APi source Code
@@ -38,10 +38,10 @@ npm install -g json-sever
 json-server --watch db.json --port 1234
 
 7. start react development server
-    a. opeb cmd in react project folder that is "project 1" and run this command
+    a. open cmd in react project folder that is "project 1" and run this command
 npm start
 
-    Note: You can you s Local host 3000
+    Note: You can use Local host 3000
 
 Thanks  for Time to see my project
 I hope  for positive response from your end
